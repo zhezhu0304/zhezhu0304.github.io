@@ -40,7 +40,6 @@ const tagline = document.querySelector('.typing-text');
 const phrases = [
     'AI Explorer',
     'Design Thinker',
-    'Ex-Automotive Designer',
     'Educator',
     'Building the future with AI'
 ];
