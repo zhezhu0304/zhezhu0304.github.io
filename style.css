@@ -208,7 +208,7 @@ header {
     line-height: 2;
     color: var(--text-secondary);
     padding: 1.5rem;
-    background: var(--bg-secondary);
+    background: transparent;
     border-left: 2px solid var(--accent);
     border-radius: 0 4px 4px 0;
 }
@@ -233,7 +233,7 @@ header {
     flex-direction: column;
     gap: 0.75rem;
     padding: 1.5rem;
-    background: var(--bg-secondary);
+    background: transparent;
     border: 1px solid #1a1a1a;
     border-radius: 4px;
     text-decoration: none;
@@ -312,7 +312,7 @@ header {
     flex-direction: column;
     gap: 0.5rem;
     padding: 1.5rem;
-    background: var(--bg-secondary);
+    background: transparent;
     border: 1px solid #1a1a1a;
     border-radius: 4px;
     text-decoration: none;
